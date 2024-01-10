@@ -1,0 +1,41 @@
+
+html{
+    font-size: 22px;
+}
+
+/*body element selector call also parent element*/
+/*body{
+   
+}
+/*
+/*main element selector will select all the elements inside it*/
+main{
+    font-family:monospace
+}
+
+/* Paragraph P elemlent selector*/
+p{
+    color: blue;
+}
+
+/* class selector*/
+.gray{
+    color: gray;
+}
+
+/* group selector*/
+h1,h2{
+    color: brown;
+}
+
+/* element within an element selector
+p span {
+    text-transform: uppercase;
+    background-color: darkred;
+}
+*/
+
+.highlight{
+    text-transform: uppercase;
+    background-color: blue;
+}
