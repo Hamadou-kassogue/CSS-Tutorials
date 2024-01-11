@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    border: 10px double red;
+   /*  border-top: 10px dotted gold;
+    border-right: 20px solid blue;
+    font-size: 3rem; */
+   /*  border-top-width: 6px;
+    border-top-style: ridge;
+    border-top-color: brown;
+    border-right-width: 4px;
+    border-right-style: dotted;
+    border-right-color: blue; */
+    font-size: 1.5rem;
+    margin: 1.5em;
+   /*  margin-top: 1.5rem;
+    margin-right: 2em;
+    margin-bottom: 2em;
+    margin-left: 2em; */
+    padding: 0.5em;
+    outline: 5px solid purple;
+    /* outline-offset: -20px; */
+    outline-offset: 5px;
+}
+
+.circle{
+    margin: 3rem auto;
+    background-color: gold;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    outline: 5px solid brown;
+    outline-offset: 20px;
+}
+
